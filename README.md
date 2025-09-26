@@ -10,5 +10,33 @@ Idées de base :
 - Obstacles dans la course (ennemis, terrain, etc.)
 - Power-up pouvant aider à tirer plus vite, mais seulement pendant un certain temps
 
-Assets : 
-- [Spase shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
+## Documentation :
+
+### Niveau :
+- Niveau en auto-scroller vertical
+- Vue en top-down
+- Murs sur les côtés (left, right) pour empêcher le player de sortir
+- Murs avec collisions pouvant être utilisés comme obstacles
+
+### Vaisseau :
+- Moveset en 4 directions (top, down, left, right)
+- Vue bloquée vers le haut (pas de rotation)
+- Peut tirer
+
+### Keybinds :
+- W : up
+- A: left
+- S : down
+- D : right
+- Spacebar : tir
+
+### Interactions :
+- Collisions entre le player et le niveau
+- Collisions entre le player et les obstacles
+
+- Pause menu
+- Controls menu
+
+
+## Assets : 
+- [Space shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
