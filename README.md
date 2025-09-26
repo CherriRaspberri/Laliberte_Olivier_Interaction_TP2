@@ -10,3 +10,5 @@ Idées de base :
 - Obstacles dans la course (ennemis, terrain, etc.)
 - Power-up pouvant aider à tirer plus vite, mais seulement pendant un certain temps
 
+Assets : 
+- [Spase shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
