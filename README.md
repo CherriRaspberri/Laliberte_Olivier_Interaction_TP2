@@ -37,6 +37,18 @@ Idées de base :
 - Pause menu
 - Controls menu
 
+## Comètes 
+
+###Comet_spawner :
+___
+Comet_spawner est l'entité qui fait spawner les comètes.
+- spawn_comet() : génère une nouvelle comète
+- set_comet_spawn_position() : donne une position de départ random en haut du viewport à la nouvelle comète.
+- set_comet_trajectory() : donne un angle de trjectoire random à la nouvelle comète.
+- Timer : fait spawner une comète à chaque (1) seconde(s).
+
+### Interactions :
+- 
 
 ## Assets : 
 - [Space shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
