@@ -37,6 +37,13 @@ Idées de base :
 - Pause menu
 - Controls menu
 
+## Player (vaisseau)
+
+Le player est équippé d'une propriété :
+- Sprite2D
+- CollisionPolygon2D
+- Laser weapon (Node2D)
+
 ## Comètes 
 
 Chaque comète est équippé d'une propriété :
