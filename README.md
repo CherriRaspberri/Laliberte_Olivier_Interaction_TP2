@@ -40,7 +40,7 @@ Idées de base :
 ## Comètes 
 
 ### Comet_spawner :
-___
+---
 Comet_spawner est l'entité qui fait spawner les comètes.
 - spawn_comet() : génère une nouvelle comète
 - set_comet_spawn_position() : donne une position de départ random en haut du viewport à la nouvelle comète.
