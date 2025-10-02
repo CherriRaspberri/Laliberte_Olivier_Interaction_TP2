@@ -39,6 +39,21 @@ Idées de base :
 
 ## Comètes 
 
+Chaque comète est équippé d'une propriété :
+- Sprite2D
+- CollisionShape2D
+- VisibleOnScreenNotifier2D
+
+Le visible-notifier permet de détecter quand la comète sort de l'écran.
+
+Chaque comète est équippée d'une fonction pour :
+- Position de base
+- Trajectoire
+- Interaction de collision envers le player
+- Interaction de collision envers les laser
+- Interaction de sortie d'écran
+
+
 ### Comet_spawner :
 Comet_spawner est l'entité qui fait spawner les comètes.
 - spawn_comet() : génère une nouvelle comète
@@ -47,7 +62,8 @@ Comet_spawner est l'entité qui fait spawner les comètes.
 - Timer : fait spawner une comète à chaque (1) seconde(s).
 
 ### Interactions :
-- 
+- explode(): interaction détruisant la comète quand elle entre en contact avec un laser
+- on_visible_on_screen_notifier_2d_screen_exited() : interaction détruisant la comète quand elle sort de l'écran
 
 ## Assets : 
 - [Space shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
