@@ -42,6 +42,19 @@ Le player est équippé d'une propriété :
 
 ## Laser 
 
+Chaque laser est équippé d'une propriété :
+- Sprite2D
+- CollisionShape2D
+- VisibleOnScreenNotifier2D
+
+Le visible-notifier permet de détecter quand le laser sort de l'écran.
+
+Chaque laser est équippé d'une fonction pour :
+
+### Laser_weapon :
+Laser_weapon est l'entité qui permet de tirer les laser.
+
+
 ## Comètes 
 
 Chaque comète est équippé d'une propriété :
