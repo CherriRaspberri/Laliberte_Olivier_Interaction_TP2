@@ -11,7 +11,7 @@ Idées de base :
 - Obstacles dans la course (ennemis, terrain, etc.)
 - Power-up pouvant aider à tirer plus vite, mais seulement pendant un certain temps
 
-# Documentation :
+# Documentation 
 
 ### Niveau :
 - Niveau en auto-scroller vertical
@@ -39,6 +39,8 @@ Le player est équippé d'une propriété :
 - S : down
 - D : right
 - Spacebar : tir
+
+## Laser 
 
 ## Comètes 
 
