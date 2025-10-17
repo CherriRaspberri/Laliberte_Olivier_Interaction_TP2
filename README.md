@@ -138,4 +138,4 @@ Chaque son utilisé :
 
 ## Assets : 
 - [Space shooter redux - Kenney](https://www.kenney.nl/assets/space-shooter-redux)
-- 
+- Font : 8-bit wonder (free)
