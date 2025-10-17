@@ -27,7 +27,7 @@ offset = Vector2(-275, -15)
 region_rect = Rect2(0, 0, 1300, 740)
 
 [node name="Player" parent="." instance=ExtResource("2_yqjtg")]
-position = Vector2(615, 673)
+position = Vector2(615, 665)
 
 [node name="Comet_spawner" parent="." instance=ExtResource("2_lnu2h")]
 
