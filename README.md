@@ -1,5 +1,6 @@
 # Laliberte_Olivier_Interaction_TP2 : Space Race
 2e travail pour le cours d'interaction de 3e session en Techniques Multimédia à Montmorency.
+Lien vers le [jeu ici](https://cherriraspberri.github.io/Laliberte_Olivier_Interaction_TP2/)
 
 ## Concept :
 Jeu vidéo de type "shoot them up" inspiré de [Gradius](https://en.wikipedia.org/wiki/Gradius).
