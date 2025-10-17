@@ -25,7 +25,7 @@ build_mode = 1
 polygon = PackedVector2Array(0, -36, 10, -16, 52, 5, 36, 32, -36, 32, -52, 5, -10, -16)
 
 [node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(0, -308.333)
+position = Vector2(0, -356.667)
 zoom = Vector2(1.375, 1.375)
 limit_left = 0
 limit_right = 1280
