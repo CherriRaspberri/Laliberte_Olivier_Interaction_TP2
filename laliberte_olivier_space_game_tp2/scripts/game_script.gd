@@ -63,7 +63,7 @@ func restart_game():
 	$music.play(0)
 	#respawns the player
 	var player = player_scene.instantiate()
-	player.position = Vector2(615, 673)
+	player.position = Vector2(615, 656)
 	player.player_died.connect(_on_player_player_died)
 	add_child(player)
 	
